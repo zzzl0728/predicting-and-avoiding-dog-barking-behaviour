@@ -17,3 +17,4 @@ UrbanSound8K/metadata/.DS_Store
 UrbanSound8K/metadata/UrbanSound8K.csv
 UrbanSound8K/UrbanSound8K_README.txt
 *.npy
+*.h5
